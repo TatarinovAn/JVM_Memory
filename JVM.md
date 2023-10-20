@@ -38,7 +38,7 @@ public class JvmComprehension {
 6.  объект "new String()", который храниться в куче со значением (o.toString() + i + ii)
 
 
-
+![Иллюстрация к проекту](https://github.com/TatarinovAn/JVM_Memory/blob/main/Memory.jpg?raw=true)
 
 
    
