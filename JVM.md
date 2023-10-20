@@ -28,7 +28,7 @@ public class JvmComprehension {
 
 4.  printAll - статический метод.
 
-7.  объект "new String("finished")", который храниться в куче.
+*7.  объект "new String("finished")", который храниться в куче.
 
 
 фрейм main printAll
